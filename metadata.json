@@ -1,0 +1,5 @@
+{
+  "name": "Smart Picture Riddle",
+  "description": "An interactive educational riddle game where you guess objects based on pictures and hints across various themes like Agriculture, History, and Science.",
+  "requestFramePermissions": []
+}
